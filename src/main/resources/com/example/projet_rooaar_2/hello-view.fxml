@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.effect.Bloom?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="445.0" prefWidth="743.0" style="-fx-background-color: #000000;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.projet_rooaar_2.HelloController">
+    <children>
+        <ImageView fitHeight="495.0" fitWidth="750.0" opacity="0.44" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@image_LOGIN/img.png" />
+            </image></ImageView>
+        <ImageView fitHeight="412.0" fitWidth="712.0" layoutX="16.0" layoutY="22.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@image_LOGIN/img_1.png" />
+            </image>
+        </ImageView>
+        <AnchorPane layoutX="406.0" layoutY="36.0" opacity="0.93" prefHeight="348.0" prefWidth="301.0" style="-fx-background-color: #003e1c;">
+            <children>
+                <PasswordField layoutX="36.0" layoutY="151.0" prefHeight="20.0" prefWidth="230.0" promptText="Mot de passe" />
+                <TextField layoutX="36.0" layoutY="96.0" prefHeight="20.0" prefWidth="230.0" promptText="Email" />
+                <Button fx:id="Btn_Connection" cache="true" layoutX="36.0" layoutY="222.0" mnemonicParsing="false" onAction="#Se_connecter" prefHeight="31.0" prefWidth="230.0" style="-fx-background-color: #000000;" text="Se connecter" textFill="WHITE" />
+                <Label layoutX="112.0" layoutY="36.0" style="-fx-background-color: #003e1c;" text="Se connecter" textFill="WHITE">
+                    <font>
+                        <Font size="17.0" />
+                    </font>
+                </Label>
+            </children>
+        </AnchorPane>
+        <Label alignment="TOP_LEFT" layoutX="56.0" layoutY="155.0" prefHeight="106.0" prefWidth="301.0" style="-fx-background-image: #003e1c;" text="Bienvenue sur ROOAAR" textFill="WHITE">
+            <font>
+                <Font size="27.0" />
+            </font>
+            <effect>
+                <Bloom threshold="0.93" />
+            </effect>
+        </Label>
+        <Label alignment="CENTER" layoutX="58.0" layoutY="197.0" prefHeight="26.0" prefWidth="301.0" style="-fx-background-image: #003e1c;" text="L'app qu'il te faut pour choper ton DINO !" textFill="WHITE">
+            <font>
+                <Font size="13.0" />
+            </font>
+            <effect>
+                <Bloom threshold="0.43" />
+            </effect>
+        </Label>
+        <Label alignment="TOP_LEFT" layoutX="56.0" layoutY="222.0" prefHeight="26.0" prefWidth="301.0" style="-fx-background-image: #003e1c;" text="Inscris toi pour profiter de nos DINOS en PROMOS" textFill="WHITE">
+            <font>
+                <Font size="13.0" />
+            </font>
+            <effect>
+                <Bloom threshold="0.43" />
+            </effect>
+        </Label>
+        <Button fx:id="Btn_aller_Inscription" cache="true" layoutX="93.0" layoutY="258.0" mnemonicParsing="false" onAction="#aller_inscription" opacity="0.86" prefHeight="31.0" prefWidth="230.0" style="-fx-background-color: #000000;" text="S'inscrire" textFill="WHITE" />
+    </children>
+</AnchorPane>
