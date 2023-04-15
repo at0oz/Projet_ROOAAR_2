@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66b2f6c5-d481-4d76-83c6-852031725d7b" name="Changes" comment="Test 1">
-      <change afterPath="$PROJECT_DIR$/key.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/market-research.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/projet_rooaar_2/RegistrationForm.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/projet_rooaar_2/RegistrationForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/projet_rooaar_2/add-user.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+    <list default="true" id="66b2f6c5-d481-4d76-83c6-852031725d7b" name="Changes" comment="Ajout page inscription.fxml + modif controller">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +28,19 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="144629a5-eb6f-4111-90b5-09003ee531a1" />
+        <option name="url" value="https://github.com/at0oz/Projet_ROOAAR_2.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -65,12 +68,12 @@
     "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.STATE": "left",
     "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "1",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/moust/Downloads",
+    "last_opened_file_path": "C:/Users/tmb20/OneDrive/Bureau/Google Drive/ECE/ING3/Cours S2/POO_Java/Projet_ROOAAR_2/src/main/resources/com/example/projet_rooaar_2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel",
@@ -82,8 +85,8 @@
       <recent name="com.example.projet_rooaar_2" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\tmb20\OneDrive\Bureau\Google Drive\ECE\ING3\Cours S2\POO_Java\Projet_ROOAAR_2\src\main\resources\com\example\projet_rooaar_2\image_LOGIN" />
       <recent name="C:\Users\tmb20\OneDrive\Bureau\Google Drive\ECE\ING3\Cours S2\POO_Java\Projet_ROOAAR_2\src\main\resources\com\example\projet_rooaar_2" />
+      <recent name="C:\Users\tmb20\OneDrive\Bureau\Google Drive\ECE\ING3\Cours S2\POO_Java\Projet_ROOAAR_2\src\main\resources\com\example\projet_rooaar_2\image_LOGIN" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\moust\IdeaProjects\Projet_ROOAAR_2\src\main\java\com\example\projet_rooaar_2" />
@@ -125,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681217480149</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ajout page inscription.fxml + modif controller">
+      <created>1681477585781</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681477585781</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +143,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test 1" />
+    <MESSAGE value="Ajout page inscription.fxml + modif controller" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajout page inscription.fxml + modif controller" />
   </component>
 </project>
