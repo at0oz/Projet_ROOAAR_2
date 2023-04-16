@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66b2f6c5-d481-4d76-83c6-852031725d7b" name="Changes" comment="Test 1">
+    <list default="true" id="66b2f6c5-d481-4d76-83c6-852031725d7b" name="Changes" comment="Class connection controller">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681561442278</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Class connection controller">
+      <created>1681659881030</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681659881030</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +150,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test 1" />
     <MESSAGE value="Ajout page inscription.fxml + modif controller" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajout page inscription.fxml + modif controller" />
+    <MESSAGE value="Class connection controller" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class connection controller" />
   </component>
 </project>
