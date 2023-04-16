@@ -1,4 +1,4 @@
-package com.example.demo.Controller;
+package com.example.projet_rooaar_2.Controller;
 
 import com.example.demo.Context;
 import com.example.demo.Controller.NavBarController;

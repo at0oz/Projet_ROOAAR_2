@@ -4,20 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66b2f6c5-d481-4d76-83c6-852031725d7b" name="Changes" comment="Ajout page admin.fxml + modif controller">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/images/cart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/images/dinoBG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/images/dinoDefaultImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/images/dinoNull1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/images/dinosaur-silhouette-free-12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/images/plantBG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/images/th.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JDBC.java" beforeDir="false" />
+    <list default="true" id="66b2f6c5-d481-4d76-83c6-852031725d7b" name="Changes" comment="Ajout page connection/inscription/shop/admin">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projet_rooaar_2/ConnectionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/projet_rooaar_2/Controller/ConnectionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projet_rooaar_2/DinoAddController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/projet_rooaar_2/Controller/DinoAddController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projet_rooaar_2/DinoEditController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/projet_rooaar_2/Controller/DinoEditController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projet_rooaar_2/DinoPurchaseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/projet_rooaar_2/Controller/DinoPurchaseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projet_rooaar_2/DinoShopController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/projet_rooaar_2/Controller/DinoShopController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projet_rooaar_2/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/projet_rooaar_2/HelloApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projet_rooaar_2/RegistrationForm.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projet_rooaar_2/RegistrationForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projet_rooaar_2/add-user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/View/addDino.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/View/addDino.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/View/connection.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/View/connection.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/View/dinoShop.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/View/dinoShop.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/View/editDino.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/View/editDino.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/View/purchaseDino.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/View/purchaseDino.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/a.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/a.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/c.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/c.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/dinoShop4.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/dinoShop4.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
