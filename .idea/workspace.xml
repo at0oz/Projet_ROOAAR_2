@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66b2f6c5-d481-4d76-83c6-852031725d7b" name="Changes" comment="Ajout page admin.fxml + modif controller">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/images/cart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/images/dinoBG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/images/dinoDefaultImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/images/dinoNull1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/images/dinosaur-silhouette-free-12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/images/plantBG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/images/th.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JDBC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projet_rooaar_2/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/projet_rooaar_2/HelloApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projet_rooaar_2/RegistrationForm.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projet_rooaar_2/RegistrationForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projet_rooaar_2/add-user.png" beforeDir="false" />
+    <list default="true" id="66b2f6c5-d481-4d76-83c6-852031725d7b" name="Changes" comment="Class DinoPurchaseController">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/projet_rooaar_2/DinoPurchaseController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +43,6 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
   <component name="ProjectId" id="2OHTAGkTtQgYoAZmibNGEagoZft" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -153,7 +134,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681561442278</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Class DinoEditController">
+      <created>1681670315466</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681670315466</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Class DinoPurchaseController">
+      <created>1681670405186</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681670405186</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +157,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test 1" />
     <MESSAGE value="Ajout page inscription.fxml + modif controller" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajout page inscription.fxml + modif controller" />
+    <MESSAGE value="Class DinoEditController" />
+    <MESSAGE value="Class DinoPurchaseController" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class DinoPurchaseController" />
   </component>
 </project>
