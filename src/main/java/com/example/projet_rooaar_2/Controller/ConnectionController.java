@@ -1,9 +1,8 @@
 package com.example.projet_rooaar_2.Controller;
 
-import com.example.demo.Context;
-import com.example.demo.Controller.NavBarController;
-import com.example.demo.DatabaseConnection;
-import com.example.demo.HelloApplication;
+import com.example.projet_rooaar_2.Context;
+import com.example.projet_rooaar_2.DatabaseConnection;
+import com.example.projet_rooaar_2.HelloApplication;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

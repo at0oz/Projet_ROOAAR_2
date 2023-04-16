@@ -1,11 +1,10 @@
 package com.example.projet_rooaar_2.Controller;
 
-import com.example.demo.Context;
-import com.example.demo.DatabaseConnection;
-import com.example.demo.Dinosaure;
+import com.example.projet_rooaar_2.Context;
+import com.example.projet_rooaar_2.DatabaseConnection;
+import com.example.projet_rooaar_2.Dinosaure;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
-import javafx.scene.chart.PieChart;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
@@ -14,7 +13,7 @@ import javafx.scene.image.ImageView;
 import java.io.IOException;
 import java.sql.SQLException;
 
-import static com.example.demo.DatabaseConnection.getDino;
+import static com.example.projet_rooaar_2.DatabaseConnection.getDino;
 
 public class DinoPurchaseController {
 

@@ -1,9 +1,8 @@
 package com.example.projet_rooaar_2.Controller;
 
-import com.example.demo.Context;
-import com.example.demo.DatabaseConnection;
-import com.example.demo.Dinosaure;
-import com.example.demo.HelloApplication;
+import com.example.projet_rooaar_2.DatabaseConnection;
+import com.example.projet_rooaar_2.Dinosaure;
+import com.example.projet_rooaar_2.HelloApplication;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
@@ -18,8 +17,6 @@ import java.io.IOException;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.sql.SQLException;
-
-import static com.example.demo.DatabaseConnection.getDino;
 
 public class DinoAddController {
 

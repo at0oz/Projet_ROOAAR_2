@@ -1,10 +1,9 @@
 package com.example.projet_rooaar_2.Controller;
 
-import com.example.demo.Context;
-import com.example.demo.Controller.NavBarController;
-import com.example.demo.DatabaseConnection;
-import com.example.demo.Dinosaure;
-import com.example.demo.HelloApplication;
+import com.example.projet_rooaar_2.Context;
+import com.example.projet_rooaar_2.DatabaseConnection;
+import com.example.projet_rooaar_2.Dinosaure;
+import com.example.projet_rooaar_2.HelloApplication;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
@@ -13,17 +12,14 @@ import javafx.scene.control.*;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.stage.FileChooser;
-import javafx.stage.Window;
 
 import java.io.File;
-import java.io.FileInputStream;
 import java.io.IOException;
-import java.net.MalformedURLException;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.sql.SQLException;
 
-import static com.example.demo.DatabaseConnection.getDino;
+import static com.example.projet_rooaar_2.DatabaseConnection.getDino;
 
 public class DinoEditController {
 

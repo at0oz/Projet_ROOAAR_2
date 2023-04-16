@@ -1,32 +1,24 @@
 package com.example.projet_rooaar_2.Controller;
 
-import com.example.demo.Context;
-import com.example.demo.Controller.NavBarController;
-import com.example.demo.DatabaseConnection;
-import com.example.demo.Dinosaure;
-import com.example.demo.HelloApplication;
+import com.example.projet_rooaar_2.Context;
+import com.example.projet_rooaar_2.DatabaseConnection;
+import com.example.projet_rooaar_2.Dinosaure;
+import com.example.projet_rooaar_2.HelloApplication;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
-import javafx.fxml.Initializable;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
-import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.layout.*;
 import javafx.scene.paint.Color;
 import javafx.scene.text.Font;
-import javafx.stage.FileChooser;
-import javafx.stage.Window;
 
-import java.io.File;
 import java.io.IOException;
-import java.net.URL;
 import java.sql.*;
-import java.util.ResourceBundle;
 
-import static com.example.demo.HelloApplication.changeScene;
+import static com.example.projet_rooaar_2.HelloApplication.changeScene;
 
 public class DinoShopController {
     @FXML
