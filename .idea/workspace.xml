@@ -4,9 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66b2f6c5-d481-4d76-83c6-852031725d7b" name="Changes" comment="Ajout template + images + Nettoyage">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/hello-view.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/inscription.fxml" beforeDir="false" />
+    <list default="true" id="66b2f6c5-d481-4d76-83c6-852031725d7b" name="Changes" comment="Ajout page admin.fxml + modif controller">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/images/cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/images/dinoBG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/images/dinoDefaultImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/images/dinoNull1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/images/dinosaur-silhouette-free-12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/images/plantBG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/projet_rooaar_2/images/th.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JDBC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projet_rooaar_2/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/projet_rooaar_2/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projet_rooaar_2/RegistrationForm.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projet_rooaar_2/RegistrationForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projet_rooaar_2/add-user.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,14 +153,7 @@
       <option name="project" value="LOCAL" />
       <updated>1681561442278</updated>
     </task>
-    <task id="LOCAL-00004" summary="Ajout template + images + Nettoyage">
-      <created>1681666915903</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1681666915903</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,7 +162,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test 1" />
     <MESSAGE value="Ajout page inscription.fxml + modif controller" />
-    <MESSAGE value="Ajout template + images + Nettoyage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajout template + images + Nettoyage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajout page inscription.fxml + modif controller" />
   </component>
 </project>
